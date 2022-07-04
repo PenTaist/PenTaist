@@ -6,6 +6,10 @@ Je compte poster sur mon profil GitHub TOUT mes projets python même ceux qui ne
 MISE A JOUR (04/07/2022) : J'ai appris le language HTML et je suis en train d'apprendre le CSS actuellement pour pouvoir créer des sites sympas. Une fois le CSS appris, je vais mem mettre au PHP et JAVASCRIPT.
 
 
+
+
+
+
 ENGLISH/ANGLAIS :
 
 Hello everyone, I am French and I am currently learning the python language.
