@@ -4,7 +4,7 @@ FRENCH/FRANCAIS :
 Bonjour tout le monde, je suis Français et je suis actuellement en train d'apprendre le language python.
 Je compte poster sur mon profil GitHub TOUT mes projets python même ceux qui ne servent absolument à rien mais qui sont juste là pour troll ou pour faire des anims dans le cmd windows.
 
-MISE A JOUR (04/07/2022) : J'ai appris le language HTML et je suis en train d'apprendre le CSS actuellement pour pouvoir créer des sites sympas. Une fois le CSS appris, je vais mem mettre au PHP et JAVASCRIPT.
+MISE A JOUR (04/07/2022) : J'ai appris le language HTML et je suis en train d'apprendre le CSS actuellement pour pouvoir créer des sites sympas. Une fois le CSS appris, je vais me mettre au PHP et JAVASCRIPT.
 ----------------------------------------------
 ENGLISH/ANGLAIS :
 
