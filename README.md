@@ -1,15 +1,29 @@
 ----------------------------------------------
 FRENCH/FRANCAIS :
 
-Bonjour tout le monde, je suis Français et je suis actuellement en train d'apprendre le language python.
-Je compte poster sur mon profil GitHub TOUT mes projets python même ceux qui ne servent absolument à rien mais qui sont juste là pour troll ou pour faire des anims dans le cmd windows.
+Bonjour, je suis développeur frontend & backend depuis 3 ans déjà, j'ai 18 ans et je suis actuellement en terminale.
+Je maitraise les languages suivants :
 
-MISE A JOUR (20/02/2023) : HTML et CSS appris, je suis donc en train d'apprendre le JavaScript et ensuite je passerais au PHP.
+- HTML
+- CSS
+- JS
+- PHP
+- Kivy
+- Python
+
+Je sais créer des sites web, des applications mobile et des logiciels Windows & Linux.
 ----------------------------------------------
 ENGLISH/ANGLAIS :
 
-Hello everyone, I am French and I am currently learning the python language.
-I intend to post on my GitHub profile ALL my python projects even those which are absolutely useless but which are just there to troll or to make anims in the windows commands prompt.
+Hello, I have been a frontend & backend developer for 3 years already, I am 18 years old and I am currently in my final year.
+I master the following languages:
 
-UPDATE (2/20/2023): Learned HTML and CSS, so I'm learning JavaScript and then I'll move on to PHP.
+- HTML
+- CSS
+- JS
+- PHP
+- Kivy
+- Python
+
+I know how to create websites, mobile applications and Windows & Linux software.
 ----------------------------------------------
