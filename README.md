@@ -3,7 +3,7 @@
 FRENCH/FRANCAIS :
 -
 Bonjour, je suis développeur frontend & backend depuis 3 ans déjà, j'ai 18 ans et je suis actuellement en terminale.
-Je maitraise les languages suivants :
+Je maitrise les languages suivants :
 
 - HTML
 - CSS
