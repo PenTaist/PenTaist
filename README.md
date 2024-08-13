@@ -21,10 +21,10 @@ I have been a frontend & backend developer for 4 years.
 I master the following languages:
 
 - HTML
--CSS
--JS
--PHP
--Python
+- CSS
+- JS
+- PHP
+- Python
 
 I know how to create websites, mobile applications and Windows & Linux software.
 
