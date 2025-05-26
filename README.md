@@ -1,6 +1,7 @@
 # FRENCH / FRANÇAIS
 
 Bonjour à tous, je me présente.
+
 Moi c'est PenTaist et je suis passionné d'informatique depuis l'âge de 7 ans.
 
 Je suis un "touche à tout", c'est-à-dire que je m'intéresse à beaucoup de choses concernant ce domaine.
