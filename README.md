@@ -24,6 +24,7 @@ Je me débrouille ( avec l'aide d'internet ) dans les langages suivants :
 Plus de détails sur mon site internet ( www.pentaist.fr )
 
 Voilà, c'est à peu près tout pour moi.
+
 Je vous souhaite à tous une agréable journée :)
 
 # ENGLISH / ANGLAIS
@@ -52,4 +53,5 @@ I am proficient (with the help of the internet) in the following languages:
 More details on my website ( www.pentaist.fr )
 
 That's pretty much it from me.
+
 I wish you all a pleasant day :)
