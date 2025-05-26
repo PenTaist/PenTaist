@@ -2,8 +2,11 @@
 
 Bonjour à tous, je me présente.
 Moi c'est PenTaist et je suis passionné d'informatique depuis l'âge de 7 ans.
+
 Je suis un "touche à tout", c'est-à-dire que je m'intéresse à beaucoup de choses concernant ce domaine.
+
 Il y as quelques années j'ai créé ce compte GitHub dans le but de partager des projets qui me semblent intéressants et d'en faire profiter un maximum de personnes au passage.
+
 Je suis partisant de l'OpenSource, je n'aime pas tout ce qui est propriétaire comme Microsoft, Apple ou autre.
 
 Je maîtrise les langages de programmation suivants :
@@ -25,9 +28,13 @@ Je vous souhaite à tous une agréable journée :)
 # ENGLISH / ANGLAIS
 
 Hello everyone, let me introduce myself.
+
 My name is PenTaist, and I've been passionate about computers since I was 7 years old.
+
 I'm a "jack of all trades," meaning I'm interested in a wide variety of things related to this field.
+
 A few years ago, I created this GitHub account with the aim of sharing projects that I find interesting and helping as many people as possible benefit from them.
+
 I'm a supporter of Open Source; I don't like anything proprietary like Microsoft, Apple, or others.
 
 I am proficient in the following programming languages:
