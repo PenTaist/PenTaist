@@ -8,7 +8,7 @@ Je suis un "touche à tout", c'est-à-dire que je m'intéresse à beaucoup de ch
 
 Il y as quelques années j'ai créé ce compte GitHub dans le but de partager des projets qui me semblent intéressants et d'en faire profiter un maximum de personnes au passage.
 
-Je suis partisant de l'OpenSource, je n'aime pas tout ce qui est propriétaire comme Microsoft, Apple ou autre.
+Je suis partisant de l'OpenSource, je n'aime pas tout ce qui est propriétaire ( GAFAM ).
 
 Je maîtrise les langages de programmation suivants :
 - HTML
@@ -37,7 +37,7 @@ I'm a "jack of all trades," meaning I'm interested in a wide variety of things r
 
 A few years ago, I created this GitHub account with the aim of sharing projects that I find interesting and helping as many people as possible benefit from them.
 
-I'm a supporter of Open Source; I don't like anything proprietary like Microsoft, Apple, or others.
+I'm a supporter of Open Source; I don't like anything proprietary ( GAFAM ).
 
 I am proficient in the following programming languages:
 - HTML
