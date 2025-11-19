@@ -20,6 +20,7 @@ Je me débrouille ( avec l'aide d'internet ) dans les langages suivants :
 - JavaScript
 - Bash
 - Batch
+- PowerShell
 
 Plus de détails sur mon site internet ( www.pentaist.fr )
 
